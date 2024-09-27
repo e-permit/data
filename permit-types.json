@@ -4,11 +4,11 @@
     "name": "Bilateral"
   },
   {
-    "code": 1,
+    "code": 2,
     "name": "Transit"
   },
   {
-    "code": 1,
+    "code": 3,
     "name": "Third Country"
   }
 ]
