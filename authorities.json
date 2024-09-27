@@ -1,7 +1,7 @@
 {
     "TR": {
         "name": "Türkiye",
-        "url": "https://disapi.uab.gov.tr/apigateway/test/e-permit"
+        "url": "https://disapi.uab.gov.tr/apigateway/e-permit"
     },
     "TM": {
         "name": "Turkmenistan",
