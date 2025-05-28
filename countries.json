@@ -1,0 +1,16 @@
+{
+    "TR": {
+        "name": "Türkiye",
+        "url": "https://disapi.uab.gov.tr/apigateway/e-permit"
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "url": "https://ep.ulaggozegchilik.gov.tm"
+    },
+    "AZ": {
+        "name": "Azerbaijan"
+    },
+    "UZ": {
+        "name": "Uzbekistan"
+    }
+}
