@@ -14,5 +14,9 @@
     "UZ": {
         "name": "Uzbekistan",
         "url": "https://tr-epermit.mintrans.uz"
+    },
+    "GE": {
+        "name": "Georgia",
+        "url": "https://elta-epermit-public-api.ssg.gov.ge"
     }
 }
