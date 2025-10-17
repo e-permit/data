@@ -3,16 +3,17 @@
         "name": "Türkiye",
         "url": "https://disapi.uab.gov.tr/apigateway/e-permit"
     },
-    "TM": {
-        "name": "Turkmenistan",
-        "url": "https://ep.ulaggozegchilik.gov.tm"
+    "KG": {
+        "name": "Kyrgyzstan",
+        "url": "https://epermit.aat.gov.kg"
     },
     "AZ": {
         "name": "Azerbaijan",
         "url": "https://global-permit.ayna.gov.az"
     },
     "UZ": {
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "url": "https://tr-epermit.mintrans.uz"
     },
     "GE": {
         "name": "Georgia",
