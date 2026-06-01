@@ -24,7 +24,7 @@
             "properties": {
                 "id": {
                     "type": "string",
-                    "pattern": "^[A-Z]{2}-[A-Z]{2}-\\d{4}-(1|2|3)-[0-9]+$"
+                    "pattern": "^[A-Z]{2}-[A-Z]{2}-\\d{4}-(1|2|3|4)-[0-9]+$"
                 },
                 "exp": {
                     "type": "string",
